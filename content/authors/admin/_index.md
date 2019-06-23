@@ -9,7 +9,7 @@ education:
     institution: University of Chicago
     year: 2018
   - course: B.A./M.A. in Economics
-    institution: Indian Institute of Technology Madrasge
+    institution: Indian Institute of Technology Madras
     year: 2014
 
 email: "sushmitavgopalan {at} gmail {dot} com"
