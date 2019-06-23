@@ -1,7 +1,8 @@
 ---
 authors:
 - admin
-bio: I'm a data scientist with a background in Economics and Computational Social Science. I like machine learning, network analysis, informative and pretty visualizations, flowers and books! :flower
+bio: I'm a data scientist with a background in Economics and Computational Social Science. I like machine learning, network analysis, informative visualizations, flowers and books! 
+
 education:
   courses:
   - course: M.A. in Computational Social Science
