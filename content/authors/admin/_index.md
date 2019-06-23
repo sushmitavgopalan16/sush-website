@@ -40,4 +40,25 @@ user_groups:
 - Visitors
 ---
 
-I'm a data scientist with a background in Economics and Computational Social Science. I like machine learning, network analysis, informative and pretty visualizations, flowers and books! 
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+
+
+I'm a data scientist with a background in Economics and Computational Social Science. I like machine learning, network analysis, informative and pretty visualizations, flowers and books! :cherry_blossom:
+
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
