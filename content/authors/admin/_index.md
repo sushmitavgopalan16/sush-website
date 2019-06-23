@@ -40,25 +40,27 @@ user_groups:
 - Visitors
 ---
 
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
-
+&nbsp;  
+&nbsp;
+&nbsp;  
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
+&nbsp;  
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 I'm a data scientist with a background in Economics and Computational Social Science. I like machine learning, network analysis, informative and pretty visualizations, flowers and books! :cherry_blossom:
 
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
+&nbsp;  
+&nbsp;
+&nbsp;  
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
