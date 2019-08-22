@@ -15,7 +15,7 @@ user_groups:
 
 <p align="justify">
 
-I'm a data scientist at the <a href="https://sites.northwestern.edu/n3lab/about/"> Northwestern Neighborhood and Network Initiative </a> at Northwestern University. I use statistics, network science and machine learning to work on a variety of projects on gun violence and police misconduct in Chicago. As N3's first data science hire, I also work on setting up computing infrastructure and data pipelines for the lab. My primary tools are Python and R, with occasional recourse to SQL. Testing changes here.
+I'm a data scientist at the <a href="https://sites.northwestern.edu/n3lab/about/"> Northwestern Neighborhood and Network Initiative </a> at Northwestern University. I use statistics, network science and machine learning to work on a variety of projects on gun violence and police misconduct in Chicago. As N3's first data science hire, I also work on setting up computing infrastructure and data pipelines for the lab. My primary tools are Python and R, with occasional recourse to SQL. 
 <br /><br />
 I'm proud to be a co-organizer at the wonderful <a href = "https://rladieschicago.org/"> Chicago chapter</a> of R-Ladies. R-Ladies is a global support and advocacy group for women and gender minorities who use R. We now have a presence in 149 cities across the world and over 50,000 members!
 <br /><br />
