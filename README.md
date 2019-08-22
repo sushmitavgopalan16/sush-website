@@ -1,4 +1,4 @@
-Personal website at sushmitagopalan.com
+repo for [my personal webpage](www.sushmitagopalan.com)
 
 * Blogdown help from [Summer of blogdown](https://alison.rbind.io/project/summer-of-blogdown/)
 * CSS help from [w3schools](https://www.w3schools.com/html/default.asp)
