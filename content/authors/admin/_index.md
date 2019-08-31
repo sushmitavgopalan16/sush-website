@@ -10,6 +10,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+<font size="3">
 
 ## **Hi, I'm Sushmita!**
 
