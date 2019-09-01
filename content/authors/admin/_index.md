@@ -1,14 +1,4 @@
 ---
-authors:
-- admin
-bio: I'm a data scientist with a background in Economics and Computational Social Science. I like machine learning, network analysis, informative visualizations, flowers and books! 
-
-
-
-superuser: true
-user_groups:
-- Researchers
-- Visitors
 ---
 <font size="3">
 
