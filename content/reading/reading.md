@@ -3,8 +3,8 @@ title: What I'm reading in 2019
 author: ''
 date: '2019-08-31'
 slug: reading
-categories: []
-tags: []
+categories: [reading, personal]
+tags: [reading, personal]
 subtitle: ''
 summary: ''
 authors: []
