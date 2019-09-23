@@ -1,7 +1,7 @@
 ---
 header:
-  caption: ""
+  caption: " "
   image: ""
-title: "   "
+title: "  "
 view: 2
 ---
