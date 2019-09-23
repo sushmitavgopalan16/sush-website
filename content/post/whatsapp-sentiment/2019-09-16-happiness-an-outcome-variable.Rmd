@@ -219,7 +219,7 @@ Before I whip `tensorflow` out though, I think I have enough reasons to believe 
 
 <p align="justify">
 While I continue to think of alternatives to use as a proxy for my daily happiness, I've started to track my moods using the [Daylio](https://daylio.webflow.io/) app. If you have other ideas, I'd love to hear them!
-
+</p>
 ```{r, echo = FALSE}
 sample_sentences <- c("What the fuck!",
                 "wtf!",
